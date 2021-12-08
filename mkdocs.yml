@@ -3,9 +3,6 @@ site_name: Pandora Sat
 site_url: https://pandorasat.com
 site_description: NASA Pandora Satellite
 
-## Repository
-repo_name: pandorawebsite
-repo_url: https://github.com/christinahedges/pandorawebsite
 
 ## Social Media
 extra:
