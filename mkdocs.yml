@@ -1,0 +1,48 @@
+## Project information
+site_name: Pandora Sat
+site_url: https://pandorasat.com
+site_description: NASA Pandora Satellite
+
+## Repository
+repo_name: pandorawebsite
+repo_url: https://github.com/christinahedges/pandorawebsite
+
+## Social Media
+extra:
+  social:
+    - icon: fontawesome/solid/home
+      link: https://pandorasat.com
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/pandoratwitterhandle
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/christinahedges/pandorawebsite
+
+nav:
+    - Home : index.md
+    - Example : example.md
+    - About : about.md
+theme:
+  name: "material"
+  custom_dir: docs/override/
+  icon:
+    logo: material/star
+  palette:
+    scheme: default
+    primary: purple
+    accent: green
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+
+plugins:
+  - search
+  - autolinks
+## Custom theme additions
+extra_javascript:
+        - 'stylesheets/extra.js'
+extra_css:
+        - stylesheets/extra.css
