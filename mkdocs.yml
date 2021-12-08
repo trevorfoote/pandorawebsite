@@ -28,7 +28,7 @@ theme:
     logo: material/star
   palette:
     scheme: default
-    primary: purple
+    primary: black
     accent: green
   font:
     text: Roboto
