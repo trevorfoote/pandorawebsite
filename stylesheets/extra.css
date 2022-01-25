@@ -129,3 +129,37 @@ div.doc-contents:not(.first) {
   border-left: 4px solid rgba(230, 230, 230);
   margin-bottom: 80px;
 }
+
+.md-typeset .admonition.author,
+.md-typeset details.author {
+  border-color: rgb(0, 0, 0);
+}
+.md-typeset .author > .admonition-title,
+.md-typeset .author > summary {
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgb(0, 0, 0);
+}
+
+.md-typeset .people > .admonition-title::before,
+.md-typeset .people > summary::before {
+  background-color: rgb(255, 255, 255);
+}
+.md-typeset .admonition.people,
+.md-typeset details.people {
+  border-color: rgb(255, 255, 255);
+}
+.md-typeset .people > .admonition-title,
+.md-typeset .people > summary {
+  background-color: rgba(255, 255, 255);
+  border-color: rgb(255, 255, 255);
+}
+.md-typeset .people .admonition-title{
+  font-size:20px
+}
+
+.avatar{
+  border-radius:50%;
+  width: 150px;
+  float: left;
+  margin: 0px 25px 25px 0px;
+}
