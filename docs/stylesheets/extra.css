@@ -162,4 +162,5 @@ div.doc-contents:not(.first) {
   width: 150px;
   float: left;
   margin: 0px 25px 25px 0px;
+  filter: grayscale(100%);
 }

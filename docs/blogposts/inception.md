@@ -1,5 +1,6 @@
 # Inception
 *January 25th 2022*
+*Author: Christina Hedges*
 
 **This sentence has a TL;DR summary of the blog post**
 
