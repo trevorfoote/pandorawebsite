@@ -160,6 +160,18 @@ Markdown = ">=3.3,<4.0"
 mkdocs = ">=1.1,<2.0"
 
 [[package]]
+name = "mkdocs-include-markdown-plugin"
+version = "3.2.3"
+description = "Mkdocs Markdown includer plugin."
+category = "main"
+optional = false
+python-versions = ">=3.6"
+
+[package.extras]
+dev = ["bump2version (==1.0.1)", "flake8 (==3.9.2)", "flake8-implicit-str-concat (==0.2.0)", "flake8-print (==4.0.0)", "isort (==5.9.1)", "mdpo (==0.3.61)", "pre-commit (==2.13.0)", "pytest (==6.2.4)", "pytest-cov (==2.12.1)", "pyupgrade (==2.19.4)", "yamllint (==1.26.1)"]
+test = ["pytest (==6.2.4)", "pytest-cov (==2.12.1)"]
+
+[[package]]
 name = "mkdocs-material"
 version = "8.0.5"
 description = "A Material Design theme for MkDocs"
@@ -373,7 +385,7 @@ testing = ["pytest (>=4.6)", "pytest-checkdocs (>=2.4)", "pytest-flake8", "pytes
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "e5e8d91a476b0e5b5845ac1a835e711c8d8127c336866c77d92b28479536e0ae"
+content-hash = "d5017441dd9a8f050b33c6b4ac5dbe3ee298b8d22ef6d0af8f37564ae95dd0c5"
 
 [metadata.files]
 atomicwrites = [
@@ -459,6 +471,10 @@ mkdocs-autolinks-plugin = [
 mkdocs-autorefs = [
     {file = "mkdocs-autorefs-0.3.0.tar.gz", hash = "sha256:2f89556eb2107d72e3aff41b04dcaaf1125d407a33b8027fbc982137d248d37d"},
     {file = "mkdocs_autorefs-0.3.0-py3-none-any.whl", hash = "sha256:261875003e49b5d708993fd2792a69d624cbc8cf7de49e96c81d3d9825977ca4"},
+]
+mkdocs-include-markdown-plugin = [
+    {file = "mkdocs_include_markdown_plugin-3.2.3-py3-none-any.whl", hash = "sha256:5a8b0c60d8981225c012b8f657b6557910997e46dacae4aff039b181487236cf"},
+    {file = "mkdocs_include_markdown_plugin-3.2.3.tar.gz", hash = "sha256:64dd8c408a1b5b7422d4a5a826c434e5372af2fb7bd244dd5c87e09ff8f13302"},
 ]
 mkdocs-material = [
     {file = "mkdocs-material-8.0.5.tar.gz", hash = "sha256:7ff116fbd2c494f352d88ebd92730e297b5aefe87148d5c904c32907ed8bfe42"},

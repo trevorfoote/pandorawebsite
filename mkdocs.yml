@@ -16,8 +16,10 @@ extra:
 
 nav:
     - Home : index.md
-    - Example : example.md
-    - About : about.md
+    - Blog:
+      - blogposts/inception.md
+    - People : people.md
+
 theme:
   name: "material"
   custom_dir: docs/override/
@@ -34,10 +36,17 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.indexes
-
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
 plugins:
   - search
   - autolinks
+  - include-markdown
+
 ## Custom theme additions
 extra_javascript:
         - 'stylesheets/extra.js'
