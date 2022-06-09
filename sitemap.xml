@@ -1,28 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://pandorasat.com/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <loc>https://github.com/pandoramission/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pandorasat.com/example/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <loc>https://github.com/pandoramission/about/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pandorasat.com/people/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <loc>https://github.com/pandoramission/example/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pandorasat.com/authors/christina/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <loc>https://github.com/pandoramission/people/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://pandorasat.com/blogposts/inception/</loc>
-         <lastmod>2022-01-25</lastmod>
+         <loc>https://github.com/pandoramission/targets/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/blewis/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/hedges/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/quintana/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/blogposts/blogpost1/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/blogposts/inception/</loc>
+         <lastmod>2022-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/blogposts/moreblogging/</loc>
+         <lastmod>2022-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
