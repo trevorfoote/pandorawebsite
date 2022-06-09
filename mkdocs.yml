@@ -1,23 +1,26 @@
 ## Project information
 site_name: Pandora Sat
-site_url: https://pandorasat.com
+site_url: https://github.com/pandoramission
 site_description: NASA Pandora Satellite
+repo_url: https://github.com/pandoramission
 
 
 ## Social Media
 extra:
   social:
     - icon: fontawesome/solid/home
-      link: https://pandorasat.com
+      link: https://github.com/pandoramission
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/pandoratwitterhandle
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/christinahedges/pandorawebsite
+      link: https://github.com/pandoramission/pandorawebsite
 
 nav:
     - Home : index.md
+    - About: about.md
+    - Target List: targets.md
     - Blog:
-      - blogposts/inception.md
+      - blogposts/blogpost1.md
     - People : people.md
 
 theme:
@@ -46,7 +49,7 @@ plugins:
   - search
   - autolinks
   - include-markdown
-
+  - table-reader
 ## Custom theme additions
 extra_javascript:
         - 'stylesheets/extra.js'

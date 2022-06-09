@@ -21,5 +21,5 @@ Nec ullamcorper sit amet risus nullam eget felis eget. Condimentum vitae sapien 
 !!! author "Spotlight"
 
     {%
-       include-markdown "../authors/christina.md"
+       include-markdown "../authors/hedges.md"
     %}
