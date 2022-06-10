@@ -27,7 +27,7 @@ theme:
   name: "material"
   custom_dir: docs/override/
   icon:
-    logo: material/star
+    logo: Pandora_logo_small
   palette:
     scheme: default
     primary: black

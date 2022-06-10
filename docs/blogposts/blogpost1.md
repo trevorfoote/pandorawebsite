@@ -16,7 +16,7 @@ In this first installment, we present an interview from Pandora  [Archive Scient
 
 [Archive Scientist Jessie Christiansen](https://web.ipac.caltech.edu/staff/christia/)            |  [Deputy Project Scientist Tom Barclay](https://science.gsfc.nasa.gov/sed/bio/thomas.barclay)         |  [science team member Josh Schlieder](https://science.gsfc.nasa.gov/sed/bio/joshua.e.schlieder)
 :-------------------------:|:-------------------------:|:-------------------------:
-![](jessie.png)            |![](tom.jpeg)              |![](josh.png)
+![](../authors/Christiansen.jpg)            |![](../authors/Barclay.jpg)              |![](../authors/Schlieder.jpg)
 
 Today's interviewer and guests. Left to Right: Jessie Christiansen, Tom Barclay, and Josh Schleider.
 
