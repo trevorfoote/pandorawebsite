@@ -2,57 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/pandoramission/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/about/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/example/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/people/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/targets/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/apai/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/barclay/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/blank/</loc>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/authors/blewis/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/christiansen/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/colon/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/dotson/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/foote/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/gilbert/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/green/</loc>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/authors/hedges/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/hoffman/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/karburn/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/kostov/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/lewis/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/mansfield/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/mason/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/morris/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/mosby/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/mullally/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/newton/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/pepper/</loc>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/authors/quintana/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/rackham/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/rowe/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/schlieder/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/supsinskas/</loc>
+         <lastmod>2022-06-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/pandoramission/authors/youngblood/</loc>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/blogposts/blogpost1/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/blogposts/inception/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://github.com/pandoramission/blogposts/moreblogging/</loc>
-         <lastmod>2022-06-09</lastmod>
+         <lastmod>2022-06-10</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
