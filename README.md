@@ -10,7 +10,7 @@ The website updates via **GitHub Actions** which means **whenever a pull request
 
 If you need to make a small (e.g. wording) change to the website content you can find the page you need (usually in `docs` on the `master` branch), click the pencil icon at the top (see below) and then edit the file. You then click "Create a new branch for this commit and start a pull request" and hit the "Commit changes" button.
 
-![](docs/assets/devimage1.png)
+![](https://github.com/PandoraMission/pandorawebsite/blob/main/docs/assets/devimg1.png)
 
 This will open a new PR. Someone with admin access on the website repository will merge your PR and the changes will go live!
 
