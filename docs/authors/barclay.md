@@ -1,4 +1,2 @@
 ![Thomas Barclay](Barclay.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Dr. Thomas Barclay is the Pandora Deputy Project Scientist and is the mission science lead for the observatory. Dr. Barclay has over a decade of experience on NASA spaceflight projects. He previously led the Guest Investigator Program for NASA's Kepler mission and served in various roles (including Deputy Project Scientist) for the Transiting Exoplanet Survey Satellite. In addition to his Pandora role, he is the Operation Scientist for the Nancy Grace Roman Space Telescope. His research interests are in the detection and characterization of transiting exoplanets. He holds the distinction of having led the discovery of the smallest known exoplanet, the Moon-sized Kepler-37 b.
