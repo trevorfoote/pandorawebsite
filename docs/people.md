@@ -42,8 +42,8 @@ The Pandora team is made up of various researchers and engineers from across NAS
 !!! people "Emily Gilbert"
     {%include-markdown "authors/gilbert.md"%}
 
-!!! people "Tom Green"
-    {%include-markdown "authors/green.md"%}
+!!! people "Tom Greene"
+    {%include-markdown "authors/greene.md"%}
 
 !!! people "Kelsey Hoffman"
     {%include-markdown "authors/hoffman.md"%}
