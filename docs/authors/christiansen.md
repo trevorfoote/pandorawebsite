@@ -1,4 +1,2 @@
 ![Jessie Christiansen](Christiansen.jpg){ class=avatar }
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-massa, nec semper lorem quam in massa. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor massa, nec semper lorem quam in massa.
+Jessie Christiansen is the Pandora Archive Scientist. She is the science lead at the NASA Exoplanet Archive, and interested in exoplanet populations and what they can tell us about planet formation, migration, and evolution. She previously worked on the NASA Kepler, K2, and TESS missions.
